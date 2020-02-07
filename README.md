@@ -1,2 +1,2 @@
-# docker-ostinato
+# Docker
 Docker Ostinato
